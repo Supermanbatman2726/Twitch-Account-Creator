@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://air-marketing-assets.imgix.net/blog/logo-db/twitch-logo-png/twitch-logo-png-1.png?auto=format&fit=max&ixlib=react-9.0.2&h=270&w=576" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitch_logo_2019.svg/1280px-Twitch_logo_2019.svg.png"/>
 </p>
 
-# Twicth-Account-Creator
+# Twicth Account Creator
   - A Twitch Account Creator, Requires Capmonster.cloud
   - Verifys Email Aswell
   - Dont Sell/Skid!
