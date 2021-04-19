@@ -12,3 +12,6 @@
   - Edit Line 17.
   - Add Proxies Inside Proxies.txt (HTTP/HTTPS)
   - Run The Program And Wait!
+
+# Support Me
+  - Donate To Me VIA PayPal: `dropoutxd1337@gmail.com`
