@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitch_logo_2019.svg/1280px-Twitch_logo_2019.svg.png"/>
 </p>
 
-# Twicth Account Creator
+# Twitch Account Creator
   - A Twitch Account Creator, Requires Capmonster.cloud
   - Verifys Email Aswell
   - Dont Sell/Skid!
